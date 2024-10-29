@@ -1,0 +1,132 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+ul{
+  list-style: none;
+  color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  background-color: rgb(228, 148, 148);
+  
+  
+}
+.item{
+  padding: 19px;
+  align-items: center;
+  text-align: center;
+  display: block;
+  margin: 15px
+  
+  
+}
+.item:hover{
+  background-color:rgb(71, 69, 69);
+  color:white;
+  border-radius: 40px;
+  
+}
+.form-control{
+  margin: 28px;
+}
+.btn{
+  margin: 28px;
+}
+h2{
+  top: 790px;
+}
+.bg {
+  background-image: url("./rowoonnew/newwwlog-removebg-preview.png") !important;
+  background-size: cover; /* Ensures the image covers the entire area */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  height: 1000px; /* Ensures the body takes up the full height of the viewport */
+  /* margin: 0; */
+  
+ }
+
+li{
+  padding: 30px;
+  
+  
+}
+.center{
+  justify-content: space-between;
+  background-color:#e68595;
+  font-weight: bolder;
+  color: #1E201E;
+  height: 40px;
+  position: relative;
+  bottom: 210px;
+  margin-bottom: 20px;
+  text-align: center;
+
+  opacity: 0.6;
+  font-size: 15px;
+  font-weight: bolder;
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: capitalize;
+}
+p{
+ align-items: center;
+
+ /* margin-left: 475px; */
+ text-align: center;
+ padding-top: 7px;
+
+}
+
+.styled-button{
+    margin: 7px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: inherit;
+    color: white;
+    background-color: black;
+    padding-inline-end: 92px;
+    text-align: center;
+    padding-left: 89px;
+    
+
+}
+.styled-button:hover{
+  background-color: black;
+  color: aliceblue;
+}
+.card{
+  /* position: absolute; */
+  bottom: 169px;
+}
+.back{
+  background-image: url("./rowoonnew/a-0005.jpg");
+  background-position: center;
+  height: 200px;
+  bottom: 169px;
+  position: relative;
+}
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 4.5rem important! ;
+  text-align: center;
+  padding-top: 61px;
+}
+.card-1{
+  position: relative;
+  bottom: 114px;
+}
+.footernew{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 54px;
+  padding-left: 20px;
+  gap: 21px;
+  color: black;
+  background-color: #e77e7e;
+  color: #553f3f;
+}
+
+
+
+
+
+
