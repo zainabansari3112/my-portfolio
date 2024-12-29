@@ -43,6 +43,7 @@ h2{
   height: 1000px; /* Ensures the body takes up the full height of the viewport */
   /* margin: 0; */
   
+  
  }
 
 li{
@@ -124,8 +125,42 @@ h1{
   background-color: #e77e7e;
   color: #553f3f;
 }
+@media   (max-width: 840px) {
+    .bg {
+      /* background-color: #e77e7e; */
+      width: 1976px;
+      position: relative;
+      top: 161px;
+      background-image:url("./rowoonnew/logo-removebg-preview.png") ;
+       }
+}
+@media (max-width : 840px) {
 
+ .center{
+  /* background-color: aqua; */
+  width: 270%;
+  margin-top:350px;
 
+  }
+  
+}
+@media (max-width : 840px) {
+
+  .make{
+   background-color: aqua;
+   /* width: 270%; */
+   /* margin-top:350px; */
+ 
+   }
+   
+ }
+
+@media (max-width: 840px) {
+  ul{
+      /* background-color: rgb(1, 5, 7);  */
+      max-width: 500%;
+}
+}
 
 
 
